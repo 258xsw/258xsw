@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=Waving&height=250&color=0:FF8C8C,100:87CEFA)
+
 ### Hi there 👋
 # I'm Hyeonjeong
 
