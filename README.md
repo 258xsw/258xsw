@@ -24,25 +24,6 @@
 
 ---
 
-### 📫 Contact Me
-<!-- 소셜 및 연락처 배지들 -->
-<p>
-  <a href="https://discord.gg/your-discord-link" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.instagram.com/your-instagram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://pf.kakao.com/your-kakaotalk" target="_blank">
-    <img src="https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000" alt="KakaoTalk">
-  </a>
-</p>
-
----
-
 ### 📊 Stats
 <!-- GitHub 통계 및 사용 언어 -->
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=258xsw)](https://solved.ac/258xsw)
@@ -69,6 +50,27 @@
 
 
 <!--
+
+---
+
+### 📫 Contact Me
+<!-- 소셜 및 연락처 배지들 -->
+<p>
+  <a href="https://discord.gg/your-discord-link" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.instagram.com/your-instagram" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://pf.kakao.com/your-kakaotalk" target="_blank">
+    <img src="https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000" alt="KakaoTalk">
+  </a>
+</p>
+
+
 **258xsw/258xsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
