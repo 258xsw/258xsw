@@ -25,12 +25,13 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 <!-- GitHub 통계 및 사용 언어 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=258xsw&theme=solarized-light&rank_icon=github)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=258xsw&theme=solarized-light&layout=compact)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=258xsw)](https://solved.ac/258xsw)<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=258xsw&theme=solarized-light&rank_icon=github" height="200" alt="Anurag's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=258xsw&theme=solarized-light&layout=compact" height="200" alt="Top Languages">
 
-</div>
+
 
 <!--
 **258xsw/258xsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
