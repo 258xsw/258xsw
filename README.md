@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=깃허브+만들기;Second+line+of+text)](https://git.io/typing-svg)
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=250&color=0:FF8C8C,100:87CEFA)
 
 ### Hi there 👋
