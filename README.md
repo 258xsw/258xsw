@@ -7,7 +7,7 @@
 
 ## 👋 Hi there! I'm Meongjeong
 
-Unity & VR 공부하고 있는 개발자입니다 :)
+게임 개발 & VR 공부하는 개발자입니다 :)
 
 ---
 
@@ -52,15 +52,21 @@ Unity & VR 공부하고 있는 개발자입니다 :)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=258xsw&theme=solarized-light&layout=compact" height="200" alt="Top Languages">
 </p>
 
+
 ---
 
 ### 📝 Blog & More
 <!-- 블로그 및 기타 링크들 -->
-<p>
-  - [**My Blog**]https://meongjeong.tistory.com/
+<p align="center">
+  <a href="https://meongjeong.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Development%20Blog-%23FF5722.svg?style=for-the-badge&logo=tistory&logoColor=white" alt="Development Blog">
+  </a>
+  <a href="https://blog.naver.com/258xsw" target="_blank">
+    <img src="https://img.shields.io/badge/Personal%20Blog-%2300C73C.svg?style=for-the-badge&logo=naver&logoColor=white" alt="Personal Blog">
+  </a>
 </p>
 
-</div>
+
 
 <!--
 **258xsw/258xsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
