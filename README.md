@@ -2,10 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&height=200&color=timeGradient&text=Meongjeong's+Github&fontSize=40&fontAlign=72&fontAlignY=40" width="100%" alt="header">
 
 <div align="center">
-
-### Hi there 👋  
-# I'm Hyeonjeong
-
+  
 ---
 
 ### 🛠 Tech Stack
