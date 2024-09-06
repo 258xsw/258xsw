@@ -1,5 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=깃허브+만들기;Second+line+of+text)](https://git.io/typing-svg)
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&color=timeGradient&text=Meongjeong's+Github&fontSize=40&fontAlign=72&fontAlignY=40)
+
+
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=258xsw&theme=solarized-light&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=258xsw&theme=solarized-light&layout=compact)
 
