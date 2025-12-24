@@ -1,49 +1,79 @@
-<!-- 헤더 이미지 -->
-<img src="https://capsule-render.vercel.app/api?type=Waving&height=200&color=timeGradient&text=Meongjeong's+Github&fontSize=40&fontAlign=72&fontAlignY=40" width="100%" alt="header">
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&reversal=true" />
+</div>
+
+<h3 align="center">
+  안녕하세요, 현정입니다 👋
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Unity%20Game%20Developer;Java%20Backend%20Learner;Always%20building%20things;Feel%20free%20to%20look%20around!&center=true&width=420&height=45">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=258xsw&label=Profile%20views&style=flat" />
+</p>
+
+---
+
+게임을 만들며 **플레이 경험과 구조의 균형**을 고민하는 개발자입니다.  
+Unity를 중심으로 게임을 개발하고 있으며,  
+Java(Spring Boot)와 React를 통해 웹 개발도 함께 학습하고 있습니다.
+
+- 🎮 관심 분야: **Unity 기반 게임 개발**
+- 🌱 학습 중: **Java / Spring Boot / React**
+- 🛠 사용하는 도구: **Rider / IntelliJ IDEA / VS Code**
+- ✨ 지향점: 이해하기 쉽고, 유지보수하기 좋은 코드
+
+---
+
+## 🛠 Languages & Tools
+
+<table>
+  <tr>
+    <td><b>Game</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=unity,cs" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=java,spring" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=react" /></td>
+  </tr>
+  <tr>
+    <td><b>IDEs</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=rider,idea,vscode" /></td>
+  </tr>
+</table>
+
+---
+
+## 📊 Profile Statistics
 
 <div align="center">
+  <img height="170"
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=258xsw&theme=solarized-light&hide_border=true" />
+  <img height="170"
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=258xsw&layout=compact&theme=solarized-light&hide_border=true" />
+</div>
 
 ---
 
-## 👋 Hi there! I'm Meongjeong
+## 🔗 Contact
 
-게임 개발 & VR 공부하는 개발자입니다 :)
-
----
-
-### 🛠 Tech Stack
-<!-- 기술 스택 배지들 -->
-<p>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"><br/>
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</p>
+<div align="center">
+  <a href="https://meongjeong.tistory.com/">
+    <img src="https://img.shields.io/badge/Blog-Tistory-FF5722?style=for-the-badge&logo=tistory&logoColor=white" />
+  </a>
+  <a href="https://blog.naver.com/258xsw">
+    <img src="https://img.shields.io/badge/Blog-Naver-00C73C?style=for-the-badge&logo=naver&logoColor=white" />
+  </a>
+</div>
 
 ---
-
-### 📊 Stats
-<!-- GitHub 통계 및 사용 언어 -->
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=258xsw)](https://solved.ac/258xsw)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=258xsw&theme=solarized-light&rank_icon=github" height="200" alt="Anurag's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=258xsw&theme=solarized-light&layout=compact" height="200" alt="Top Languages">
+  <sub>Last updated · 2025</sub>
 </p>
-
-
----
-
-### 📝 Blog & More
-<!-- 블로그 및 기타 링크들 -->
-<p align="center">
-  <a href="https://meongjeong.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Development%20Blog-%23FF5722.svg?style=for-the-badge&logo=tistory&logoColor=white" alt="Development Blog">
-  </a>
-  <a href="https://blog.naver.com/258xsw" target="_blank">
-    <img src="https://img.shields.io/badge/Personal%20Blog-%2300C73C.svg?style=for-the-badge&logo=naver&logoColor=white" alt="Personal Blog">
-  </a>
-</p>
-
