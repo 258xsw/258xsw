@@ -3,12 +3,8 @@
 </div>
 
 <h3 align="center">
-  안녕하세요, 현정입니다 👋
+  こんにちは、ヒョンジョンです 👋
 </h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Unity%20Game%20Developer;Java%20Backend%20Learner;Always%20building%20things;Feel%20free%20to%20look%20around!&center=true&width=420&height=45">
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=258xsw&label=Profile%20views&style=flat" />
@@ -16,14 +12,14 @@
 
 ---
 
-게임을 만들며 **플레이 경험과 구조의 균형**을 고민하는 개발자입니다.  
-Unity를 중심으로 게임을 개발하고 있으며,  
-Java(Spring Boot)와 React를 통해 웹 개발도 함께 학습하고 있습니다.
+ゲーム開発を通して、**プレイ体験とシステム構造のバランス**を考えることを大切にしているエンジニアです。  
+主に **Unity** を用いたゲーム開発に取り組んでおり、  
+**Java（Spring Boot）と React** を使ったWeb開発にも挑戦しています。
 
-- 🎮 관심 분야: **Unity 기반 게임 개발**
-- 🌱 학습 중: **Java / Spring Boot / React**
-- 🛠 사용하는 도구: **Rider / IntelliJ IDEA / VS Code**
-- ✨ 지향점: 이해하기 쉽고, 유지보수하기 좋은 코드
+- 🎮 興味分野: **Unityを用いたゲーム開発**
+- 🌱 学習中: **Java / Spring Boot / React**
+- 🛠 使用ツール: **Rider / IntelliJ IDEA / VS Code**
+- ✨ 目標: **読みやすく、保守しやすいコードを書くこと**
 
 ---
 
